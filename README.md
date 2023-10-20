@@ -4,3 +4,6 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+- Inclusão da documentação utilizando Swagger 20/10/2023
+- Inclusão de camada de segurança 20/10/2023
