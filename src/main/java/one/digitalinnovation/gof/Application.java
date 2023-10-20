@@ -11,7 +11,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - Spring Web
  * - H2 Database
  * - OpenFeign
- * - Implementado segurança via dependency
+ * - Implementado segurança via dependency com Spring Boot Security
  * - Documentando API com SWAGGER
  * 
  * @author wbpereiraa
